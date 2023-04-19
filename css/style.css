@@ -4,17 +4,17 @@ html {
 
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-image: url("../Images/galaxy2.png");
 }
 
 header h1 {
-  background-color: #364552;
-  color: white;
+  background-color: white;
+  color: purple;
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 3rem 2rem;
   font-size: 5rem;
   text-align: center;
-  border-radius: 0.5rem;
+  border-radius: 10rem;
 }
 
 h2 {
@@ -41,6 +41,7 @@ h4 {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h5 {
@@ -55,7 +56,7 @@ body p {
   transition: all 0.3s ease;
   background-color: #fff;
   margin: 1rem 0;
-  border-radius: 0.5rem;
+  border-radius: 10rem;
   padding: 1rem 1rem;
   cursor: pointer;
   border: 1px solid #ccc;
@@ -112,10 +113,10 @@ body p:hover {
 }
 
 footer {
-  background-color: #222;
+  background-color: plum;
   padding: 3rem;
-  color: white;
-  border-radius: 0.5rem;
+  color: black;
+  border-radius: 10rem;
 }
 
 footer p {
@@ -149,22 +150,23 @@ footer a:hover {
 
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  border: 5px solid plum;
+  background-color: white;
   width: 800px;
   margin: 0 auto;
-  border-radius: 0.3rem;
+  border-radius: 10rem;
 }
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
+  font-family: Georgia, "Times New Roman", Times, serif;
   background-color: inherit;
   float: left;
   border: none;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 /* Change background color of buttons on hover */
