@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url("../images/galaxy2.png");
+  background-image: url("../images/galaxy3.png");
 }
 
 header h1 {
@@ -158,15 +158,32 @@ body p {
   filter: drop-shadow(5px 5px lightgray);
 }
 #solsequi {
-  width: 320px;
-  height: 200px;
+  width: 420px;
+  height: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   filter: drop-shadow(5px 5px lightgray);
 }
+#autumalequi {
+  width: 420px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+
 #vernalequinox {
   width: 420px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#othercara {
+  width: 300px;
   height: 300px;
   display: block;
   margin-left: auto;
@@ -179,6 +196,14 @@ body p {
   font-size: 28px;
   text-align: left;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#solstice {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
 }
 
 #title1 {
