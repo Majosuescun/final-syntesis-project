@@ -190,6 +190,46 @@ body p {
   margin-right: auto;
   filter: drop-shadow(5px 5px lightgray);
 }
+#wintersolsti {
+  width: 450px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#solsticewinter {
+  width: 450px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#othercarac {
+  width: 450px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#season {
+  width: 450px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#earthposition {
+  width: 300px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
 
 .titlestab1 {
   color: black;
@@ -234,8 +274,21 @@ body p {
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
-
-body p:hover {
+#whatis {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
+}
+#howis {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
+}
+.videocom body p:hover {
   box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.3);
 }
 
