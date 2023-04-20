@@ -56,6 +56,8 @@ h5 {
 }
 
 body p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   transition: all 0.3s ease;
   background-color: #fff;
   margin: 1rem 0;
@@ -231,8 +233,8 @@ body p {
   filter: drop-shadow(5px 5px lightgray);
 }
 #maghalictic {
-  width: 300px;
-  height: 250px;
+  width: 380px;
+  height: 280px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -297,6 +299,13 @@ body p {
   text-shadow: 7px 7px lightgray;
 }
 .videocom {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
+}
+#typesmega {
   color: black;
   font-size: 40px;
   text-align: center;
