@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-image: url("../images/galaxy3.png");
+  background-image: url("../images/samll.png");
 }
 
 header h1 {
@@ -35,7 +35,7 @@ h3 {
   margin-right: auto;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
-  color: black;
+  color: palevioletred;
 }
 
 h4 {
@@ -58,6 +58,7 @@ h5 {
 body p {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 1.3rem;
   transition: all 0.3s ease;
   background-color: #fff;
   margin: 1rem 0;
@@ -232,7 +233,7 @@ body p {
   margin-right: auto;
   filter: drop-shadow(5px 5px lightgray);
 }
-#maghalictic {
+#megalitos {
   width: 380px;
   height: 280px;
   display: block;
@@ -240,74 +241,143 @@ body p {
   margin-right: auto;
   filter: drop-shadow(5px 5px lightgray);
 }
+#menhir {
+  width: 350px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#dolmen {
+  width: 350px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#cromlech {
+  width: 350px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#immaa {
+  width: 350px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#stone {
+  width: 350px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#rat {
+  width: 350px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
 
 .titlestab1 {
-  color: black;
-  font-size: 28px;
+  color: blue;
+  font-size: 30px;
   text-align: left;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 #solstice {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 
 #title1 {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 #typesofcelestial {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 #equageo {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 #equinoxx {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 #whatis {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 #howis {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 .videocom {
-  color: black;
-  font-size: 40px;
+  color: palevioletred;
+  font-size: 45px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
 }
 #typesmega {
-  color: black;
-  font-size: 40px;
+  color: purple;
+  font-size: 45px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
+}
+#Stonehenge {
+  color: purple;
+  font-size: 45px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
+}
+#stonene {
+  color: purple;
+  font-size: 45px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px lightgray;
+}
+#main-title2 {
+  color: purple;
+  font-size: 20px;
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   text-shadow: 7px 7px lightgray;
